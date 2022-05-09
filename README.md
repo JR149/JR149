@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JR149
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Jessica Rash
+- 👀 I’m interested in learning how to code and become a data analyst.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me @JR149.
 
 <!---
 JR149/JR149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
